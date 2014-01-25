@@ -5,7 +5,7 @@ package org.aijai.gleed2d.front;
  * @author Pekka Heikkinen
  */
 
-interface G2DItem implements G2DEntity {
+interface G2DItem extends G2DEntity {
 	
 	/**
 	 * Asset name. Essentially the file path without the extension.

@@ -5,7 +5,7 @@ package org.aijai.gleed2d.front;
  * @author Pekka Heikkinen
  */
 
-interface G2DLayer implements G2DBasic
+interface G2DLayer extends G2DBasic
 {
 	
 	/**

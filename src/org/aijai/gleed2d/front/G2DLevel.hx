@@ -5,7 +5,7 @@ package org.aijai.gleed2d.front;
  * @author Pekka Heikkinen
  */
 
-interface G2DLevel implements G2DEntity
+interface G2DLevel extends G2DEntity
 {
 	
 	/**

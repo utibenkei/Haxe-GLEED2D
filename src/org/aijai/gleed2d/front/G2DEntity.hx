@@ -5,7 +5,7 @@ package org.aijai.gleed2d.front;
  * @author Pekka Heikkinen
  */
 
-interface G2DEntity implements G2DBasic {
+interface G2DEntity extends G2DBasic {
 
 	/**
 	 * Properties associated with element
